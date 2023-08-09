@@ -1,11 +1,12 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
+title: Independent Consultant
+email: yves@yvesbd.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+description: "Yves B. Desharnais is an independent consultant with IT, Information Security, and PCI DSS Subject Matter Expert with over 20 years of professional experience. Yves was previously certified as a QSA and currently holds the PCIP (PCI Professional) and CISSP (Certified Information Systems Security Professional) certifications."
+#"W\rite an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+keywords: "Information Security, pci dss"
+skills: "Information Security - PCI DSS - Security Architecture"
+meta_author: Desharnais Yves
 
 # Google webmaster tools
 google_verify:
